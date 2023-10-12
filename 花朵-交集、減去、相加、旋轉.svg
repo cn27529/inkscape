@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="花朵-交集、減去、相加、旋轉.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1394329"
+     inkscape:cx="665.68203"
+     inkscape:cy="209.75347"
+     inkscape:window-width="1280"
+     inkscape:window-height="747"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1"
+       style="fill:#ffd5d5;stroke:#ff0000;stroke-width:0.0711992"
+       d="m 249.0696,26.770724 a 14.9644,14.9644 0 0 1 -2.16229,2.630038 14.9644,14.9644 0 0 1 -2.1932,-2.573705 14.9644,14.9644 0 0 0 -2.45687,8.271656 14.9644,14.9644 0 0 0 4.78908,10.801749 14.9644,14.9644 0 0 0 4.60588,-10.880905 14.9644,14.9644 0 0 0 -2.5826,-8.248833 z"
+       inkscape:transform-center-y="-13.054176"
+       inkscape:transform-center-x="0.084469303" />
+    <circle
+       style="fill:#ff8080;stroke:#ff0000;stroke-width:0.0942573"
+       id="path2"
+       cx="243.52177"
+       cy="-64.218018"
+       r="2.2028713"
+       transform="rotate(26.060359)" />
+    <path
+       id="path6"
+       style="fill:#ffd5d5;stroke:#ff0000;stroke-width:0.0711992"
+       d="m 267.64309,39.838584 a 14.9644,14.9644 0 0 1 -3.35882,-0.557579 14.9644,14.9644 0 0 1 1.13229,-3.186219 14.9644,14.9644 0 0 0 -8.3919,2.008116 14.9644,14.9644 0 0 0 -6.96005,9.548339 14.9644,14.9644 0 0 0 11.72608,-1.451643 14.9644,14.9644 0 0 0 5.8524,-6.361014 z"
+       inkscape:transform-center-y="-7.2322215"
+       inkscape:transform-center-x="-11.814604" />
+    <path
+       id="path7"
+       style="fill:#ffd5d5;stroke:#ff0000;stroke-width:0.0711992"
+       d="m 265.61274,62.457629 a 14.9644,14.9644 0 0 1 -1.19654,-3.187613 14.9644,14.9644 0 0 1 3.3255,-0.612518 14.9644,14.9644 0 0 0 -5.93503,-6.26354 14.9644,14.9644 0 0 0 -11.74913,-1.253411 14.9644,14.9644 0 0 0 7.1202,9.429262 14.9644,14.9644 0 0 0 8.435,1.88782 z"
+       inkscape:transform-center-y="7.0959126"
+       inkscape:transform-center-x="-11.860374" />
+    <path
+       id="path8"
+       style="fill:#ffd5d5;stroke:#ff0000;stroke-width:0.0711992"
+       d="m 245.00889,72.008817 a 14.9644,14.9644 0 0 1 2.16229,-2.630041 14.9644,14.9644 0 0 1 2.1932,2.573709 14.9644,14.9644 0 0 0 2.45687,-8.271657 14.9644,14.9644 0 0 0 -4.78908,-10.801751 14.9644,14.9644 0 0 0 -4.60588,10.880905 14.9644,14.9644 0 0 0 2.5826,8.248835 z"
+       inkscape:transform-center-y="13.054178"
+       inkscape:transform-center-x="-0.084466832" />
+    <path
+       id="path9"
+       style="fill:#ffd5d5;stroke:#ff0000;stroke-width:0.0711992"
+       d="m 226.4354,58.940953 a 14.9644,14.9644 0 0 1 3.35883,0.557578 14.9644,14.9644 0 0 1 -1.1323,3.186221 14.9644,14.9644 0 0 0 8.3919,-2.008117 14.9644,14.9644 0 0 0 6.96005,-9.54834 14.9644,14.9644 0 0 0 -11.72608,1.451643 14.9644,14.9644 0 0 0 -5.8524,6.361015 z"
+       inkscape:transform-center-y="7.2322204"
+       inkscape:transform-center-x="11.814606" />
+    <path
+       id="path10"
+       style="fill:#ffd5d5;stroke:#ff0000;stroke-width:0.0711992"
+       d="m 228.46576,36.321907 a 14.9644,14.9644 0 0 1 1.19653,3.187621 14.9644,14.9644 0 0 1 -3.32549,0.61251 14.9644,14.9644 0 0 0 5.93503,6.26354 14.9644,14.9644 0 0 0 11.74913,1.25341 14.9644,14.9644 0 0 0 -7.1202,-9.429261 14.9644,14.9644 0 0 0 -8.435,-1.88782 z"
+       inkscape:transform-center-y="-7.0959149"
+       inkscape:transform-center-x="11.860366" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.1"
+       id="path11"
+       cx="36.681366"
+       cy="49.700985"
+       rx="12.679977"
+       ry="12.566764" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.1"
+       id="ellipse11"
+       cx="36.681366"
+       cy="49.700985"
+       rx="12.679977"
+       ry="12.566764" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.1"
+       id="ellipse12"
+       cx="51.625626"
+       cy="49.700985"
+       rx="12.679977"
+       ry="12.566764" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.1"
+       id="ellipse13"
+       cx="36.681366"
+       cy="49.700985"
+       rx="12.679977"
+       ry="12.566764" />
+    <path
+       id="ellipse14"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1"
+       d="M 91.275566 39.568127 A 12.679977 12.566764 0 0 0 86.04281 49.700842 A 12.679977 12.566764 0 0 0 91.250761 59.81547 A 12.679977 12.566764 0 0 0 96.458195 49.700842 A 12.679977 12.566764 0 0 0 91.275566 39.568127 z " />
+    <text
+       xml:space="preserve"
+       style="font-size:5.82708px;fill:#000000;stroke:#000000;stroke-width:0.184;stroke-dasharray:none"
+       x="85.686279"
+       y="69.130043"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="fill:#000000;stroke:#000000;stroke-width:0.184;stroke-dasharray:none"
+         x="85.686279"
+         y="69.130043">交集</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.82708px;fill:#000000;stroke:#000000;stroke-width:0.184;stroke-dasharray:none"
+       x="129.65613"
+       y="68.984146"
+       id="text15-4"><tspan
+         sodipodi:role="line"
+         id="tspan15-8"
+         style="fill:#000000;stroke:#000000;stroke-width:0.184;stroke-dasharray:none"
+         x="129.65613"
+         y="68.984146">減去</tspan></text>
+    <path
+       id="ellipse14-3"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1"
+       d="m 115.50471,40.618832 a 12.679977,12.566764 0 0 0 -5.23275,10.132715 12.679977,12.566764 0 0 0 5.20795,10.114628 12.679977,12.566764 0 0 0 5.20743,-10.114628 12.679977,12.566764 0 0 0 -5.18263,-10.132715 z" />
+    <path
+       id="path15"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1"
+       d="m 115.50471,26.454256 a 12.679977,12.566764 0 0 0 -5.23275,10.132715 12.679977,12.566764 0 0 0 5.20795,10.114628 12.679977,12.566764 0 0 0 5.20743,-10.114628 12.679977,12.566764 0 0 0 -5.18263,-10.132715 z" />
+    <path
+       id="path16"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1"
+       d="M 139.82041 43.652633 A 12.679977 12.566764 0 0 1 136.84281 46.701542 A 12.679977 12.566764 0 0 1 133.8771 43.668652 A 12.679977 12.566764 0 0 0 131.63486 50.751424 A 12.679977 12.566764 0 0 0 136.84281 60.866052 A 12.679977 12.566764 0 0 0 142.05024 50.751424 A 12.679977 12.566764 0 0 0 139.82041 43.652633 z " />
+    <path
+       id="path17"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1"
+       d="m 178.80332,47.409078 a 12.679977,12.566764 36.675181 0 1 -4.20918,0.666875 12.679977,12.566764 36.675181 0 1 -0.56713,-4.203835 12.679977,12.566764 36.675181 0 0 -6.02873,4.341387 12.679977,12.566764 36.675181 0 0 -1.86429,11.222873 12.679977,12.566764 36.675181 0 0 10.21778,-5.001998 12.679977,12.566764 36.675181 0 0 2.45155,-7.025302 z"
+       inkscape:transform-center-x="-1.4974118"
+       inkscape:transform-center-y="-1.2879687" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.82708px;fill:#000000;stroke:#000000;stroke-width:0.184;stroke-dasharray:none"
+       x="161.70332"
+       y="68.541611"
+       id="text15-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan15-8-1"
+         style="fill:#000000;stroke:#000000;stroke-width:0.184;stroke-dasharray:none"
+         x="161.70332"
+         y="68.541611">旋轉</tspan></text>
+  </g>
+</svg>
